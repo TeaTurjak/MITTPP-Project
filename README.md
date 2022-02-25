@@ -69,7 +69,7 @@
 
 
 # Test case 2: AddAndRemoveGameFromCollection
-- user is already logged in
+- user is already logged in and on the HCL homepage
 
 |Step| Action     | Value                 | Description                                                                                   |
 |:--:|:----------:|:---------------------:|:---------------------------------------------------------------------------------------------:|
@@ -84,7 +84,7 @@
 - user logs out from the account
 
 # Test case 3: AddPCSpecificationsToProfile
-- user is already logged in
+- user is already logged in and on the HCL homepage
 
 |Step| Action         | Value                  | Description                                |
 |:--:|:--------------:|:----------------------:|:------------------------------------------:|
@@ -103,6 +103,7 @@
 - user logs out from the account
 
 # Test case 4: FilterGames
+- user is on the HCL homepage
 
 |Step| Action  | Value                | Description                                                |
 |:--:|:-------:|:--------------------:|:----------------------------------------------------------:|
@@ -118,6 +119,7 @@
 | 8  | click   |  Filtriraj           | user clicks on "Filtriraj" to start the search             |
 
 # Test case 5: FindPost
+- user is on the HCL homepage
 
 |Step| Action  | Value                                        | Description                                             |
 |:--:|:-------:|:--------------------------------------------:|:-------------------------------------------------------:|
@@ -129,6 +131,8 @@
 
 
 # Test case 6: SearchGames
+- user is on the HCL homepage
+
 |Step| Action   | Value          |  Description                                                    |
 |:--:|:--------:|:--------------:|:---------------------------------------------------------------:|
 | 1  | click    |  Igre          | user clicks the tab "Igre"                                      |
@@ -136,6 +140,7 @@
 | 3  | send keys| Alien          | user enters "Alien" to search all games with that word in a name|
 
 # Test case 7: AddProductToShoppingCart
+- user is on the HCL homepage
 
 |Step| Action| Value            | Description                                                                   |
 |:--:|:-----:|:----------------:|:-----------------------------------------------------------------------------:|

@@ -120,7 +120,7 @@
 # Test case 5: FindPost
 
 |Step| Action  | Value                                        | Description                                             |
-|:--:|:-------:|: -------------------------------------------:|: ------------------------------------------------------:|
+|:--:|:-------:|:--------------------------------------------:|:-------------------------------------------------------:|
 | 1  | click   | Vijesti                                      | user clicks the tab "Vijesti"                           |
 | 2  | click   |  filter search                               | user clicks on the filter search                        |
 | 3  |send keys| Star Wars The Old Republic                   | user enters "Star Wars The Old Republic" in a search bar|

@@ -1,5 +1,5 @@
 # MITTPP-Project
-- This repository is used for the purpose of completing the designated task Project task 2021/2022 which is the requirement for completing  the collage course Methods and Techniques of Software Testing at FERIT university
+- This repository is used for the purpose of completing the designated Project task 2021/2022 which is the requirement for completing  the collage course Methods and Techniques of Software Testing at FERIT university
 - To acomplish that 10 test cases were conducted on a chosen web site using Selenium testing
 
 ### Tested site           
